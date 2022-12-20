@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919836180452",
+    "project_id": "recipe-kotlin-crud",
+    "storage_bucket": "recipe-kotlin-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919836180452:android:2f5fb6cc5be112487dd1f1",
+        "android_client_info": {
+          "package_name": "my.edu.food_recipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919836180452-5enhptun05ungrm4p1hn5db01kf73d4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP0vvaMHQ28kt8LisNvlfIlP4as-Jzpc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919836180452-5enhptun05ungrm4p1hn5db01kf73d4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

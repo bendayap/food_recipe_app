@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipetypes">
+        <item>Fast Food</item>
+        <item>Dessert</item>
+        <item>Malaysian</item>
+        <item>Western</item>
+    </string-array>
+</resources>
